@@ -1,0 +1,51 @@
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Archivos generados por React/Vite
+dist/
+**/dist/
+.vite/
+**/.vite/
+
+# Resultados de pruebas
+coverage/
+**/coverage/
+
+# Variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Permitir ejemplos de variables
+!.env.example
+!**/.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
