@@ -183,7 +183,7 @@ base: main ← compare: /nombre
 
 ## Formato de los commits
 
-Utiliza mensajes breves y descriptivos:
+Utiliza mensajes breves y descriptivos: 
 
 ```text
 tipo: descripción
